@@ -1,0 +1,46 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Frontend Developer",
+      "company": "Tech Corp",
+      "location": "New York, NY",
+      "description": "We are looking for a skilled Frontend Developer with experience in React.js and modern CSS frameworks."
+    },
+    {
+      "id": "2",
+      "title": "Backend Developer",
+      "company": "Cloud Solutions",
+      "location": "San Francisco, CA",
+      "description": "Looking for a Backend Developer proficient in Node.js, Express, and MongoDB."
+    },
+    {
+      "id": "3",
+      "title": "UI/UX Designer",
+      "company": "Design Studio",
+      "location": "Remote",
+      "description": "A creative UI/UX Designer needed for designing intuitive user experiences and interfaces."
+    },
+    {
+      "id": "4165",
+      "title": "React.js Developer",
+      "company": "Infosys",
+      "location": "Hyderabad",
+      "description": "We want skilled React.js developer"
+    },
+    {
+      "id": "52f7",
+      "title": "Ui /ux designer",
+      "company": "TCS",
+      "location": "Hyderabad",
+      "description": "We want skilled Ui designer"
+    },
+    {
+      "id": "be9f",
+      "title": "Sales Administration",
+      "company": "Smart Lab Tech Pvt.Ltd",
+      "location": "Hyderabad",
+      "description": "Sales developer"
+    }
+  ]
+}

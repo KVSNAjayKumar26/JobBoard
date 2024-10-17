@@ -1,0 +1,77 @@
+.home-page {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .nav-links .btn-post-job {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .nav-links .btn-post-job:hover {
+    background-color: #0056b3;
+  }
+  
+  .job-listings h2 {
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .jobs-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .job-card {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 10px;
+    width: 300px;
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .job-card h3 {
+    margin-top: 0;
+    color: #007bff;
+  }
+  
+  .job-card p {
+    margin: 5px 0;
+    color: #555;
+  }
+  
+  .job-card .btn-apply {
+    display: inline-block;
+    background-color: #28a745;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .job-card .btn-apply:hover {
+    background-color: #218838;
+  }
+  
+  .job-card:hover {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  }
+  
